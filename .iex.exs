@@ -5,4 +5,3 @@ alias Mytvshows.Repo
 alias Mytvshows.Tvshow
 alias Mytvshows.Season
 alias Mytvshows.Episode
-alias Mytvshows.Application
